@@ -1,5 +1,5 @@
-package io.capston.rater;
-import io.capston.ratings.Rating;
+package project.recommender.rater;
+import project.recommender.ratings.Rating;
 
 import java.util.ArrayList;
 import java.util.HashMap;

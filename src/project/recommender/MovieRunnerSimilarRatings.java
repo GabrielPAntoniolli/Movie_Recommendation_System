@@ -1,10 +1,11 @@
-package io.capston;
+package project.recommender;
 
 import io.capston.filters.*;
-import io.capston.movie.MovieDatabase;
-import io.capston.rater.RaterDatabase;
-import io.capston.ratings.FourthRatings;
-import io.capston.ratings.Rating;
+import project.recommender.filters.*;
+import project.recommender.movie.MovieDatabase;
+import project.recommender.rater.RaterDatabase;
+import project.recommender.ratings.FourthRatings;
+import project.recommender.ratings.Rating;
 
 import java.util.ArrayList;
 

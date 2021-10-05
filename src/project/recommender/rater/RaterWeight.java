@@ -1,4 +1,4 @@
-package io.capston.rater;
+package project.recommender.rater;
 
 public class RaterWeight implements Comparable<RaterWeight>
 {

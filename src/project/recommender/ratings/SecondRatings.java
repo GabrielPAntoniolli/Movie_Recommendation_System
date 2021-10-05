@@ -1,8 +1,8 @@
-package io.capston.ratings;
+package project.recommender.ratings;
 
-import io.capston.movie.Movie;
-import io.capston.rater.EfficientRater;
-import io.capston.rater.Rater;
+import project.recommender.movie.Movie;
+import project.recommender.rater.EfficientRater;
+import project.recommender.rater.Rater;
 
 import java.util.ArrayList;
 

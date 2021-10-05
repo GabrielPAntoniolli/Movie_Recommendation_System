@@ -1,4 +1,4 @@
-package io.capston.movie;
+package project.recommender.movie;
 
 public class MovieRating implements Comparable<MovieRating>
 {

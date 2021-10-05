@@ -1,4 +1,4 @@
-package io.capston.rater;
+package project.recommender.rater;
 
 /**
  *
@@ -11,8 +11,6 @@ package io.capston.rater;
 import edu.duke.*;
 import java.util.*;
 
-import io.capston.rater.EfficientRater;
-import io.capston.rater.Rater;
 import org.apache.commons.csv.*;
 
 public class RaterDatabase 

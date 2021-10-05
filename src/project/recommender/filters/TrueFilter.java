@@ -1,6 +1,4 @@
-package io.capston.filters;
-
-import io.capston.filters.Filter;
+package project.recommender.filters;
 
 public class TrueFilter implements Filter
 {

@@ -1,6 +1,6 @@
-package io.capston.filters;
+package project.recommender.filters;
 
-import io.capston.movie.MovieDatabase;
+import project.recommender.movie.MovieDatabase;
 
 public class GenreFilter implements Filter
 {

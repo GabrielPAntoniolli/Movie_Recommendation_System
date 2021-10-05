@@ -1,4 +1,4 @@
-package io.capston;
+package project.recommender;
 
 import java.util.List;
 

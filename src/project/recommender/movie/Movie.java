@@ -1,4 +1,4 @@
-package io.capston.movie;
+package project.recommender.movie;
 
 import java.util.ArrayList;
 import java.util.Arrays;

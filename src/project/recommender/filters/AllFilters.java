@@ -1,4 +1,4 @@
-package io.capston.filters;
+package project.recommender.filters;
 
 import java.util.ArrayList;
 

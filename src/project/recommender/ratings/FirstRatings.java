@@ -1,11 +1,11 @@
-package io.capston.ratings;
+package project.recommender.ratings;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-import io.capston.movie.Movie;
-import io.capston.rater.EfficientRater;
+import project.recommender.movie.Movie;
+import project.recommender.rater.EfficientRater;
 import org.apache.commons.csv.CSVRecord;
 
 import edu.duke.FileResource;

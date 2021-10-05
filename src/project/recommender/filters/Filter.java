@@ -1,4 +1,4 @@
-package io.capston.filters;
+package project.recommender.filters;
 
 public interface Filter 
 {

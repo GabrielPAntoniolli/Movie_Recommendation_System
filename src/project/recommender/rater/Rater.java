@@ -1,8 +1,8 @@
-package io.capston.rater;
+package project.recommender.rater;
 
 import java.util.ArrayList;
 
-public interface Rater 
+public interface Rater
 {
 	public void addRating(String item, double rating);
 	public boolean hasRating(String item);

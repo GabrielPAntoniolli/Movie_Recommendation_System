@@ -1,8 +1,7 @@
-package io.capston.movie;
+package project.recommender.movie;
 
-import io.capston.filters.Filter;
-import io.capston.movie.Movie;
-import io.capston.ratings.FirstRatings;
+import project.recommender.filters.Filter;
+import project.recommender.ratings.FirstRatings;
 
 import java.util.ArrayList;
 import java.util.HashMap;
